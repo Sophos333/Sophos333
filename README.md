@@ -29,7 +29,7 @@ A polished Power BI dashboard tracking KPIs across Finance, HR, and Ops with dyn
 Data cleaning + transformation project with global population trends using Python & Jupyter.
 
 ### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis)
-Exploratory data analysis of retail sales — includes heatmaps, regression, and forecasting prep.
+Exploratory data analysis of retail sales — includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖
 
 ---
 
