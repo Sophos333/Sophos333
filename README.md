@@ -19,7 +19,7 @@ I started out in the U.S. Army, serving in combat operations overseas. After my 
 
 ### 🧹 [World Population Analysis](https://github.com/Sophos333/world-population-analysis) Data cleaning + transformation project with global population trends using Python & Jupyter. 
 
-### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) Exploratory data analysis of retail sales — includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖 
+### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) Exploratory data analysis of retail sales includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖 
 
 --- 
 
