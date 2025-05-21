@@ -29,7 +29,15 @@ I started out in the U.S. Army, serving in combat operations overseas. After my 
 
 --- 
 
-## 🧭 Values & Approach I believe: - Data should drive decisions — not just reports. - Dashboards should **communicate**, not just display. - Learning is lifelong — from the battlefield to the BI suite. 
+## 🧭 Values & Approach I believe: 
+
+- Data should drive decisions
+  
+- not just reports.
+
+- Dashboards should **communicate**, not just display. 
+
+- Learning is lifelong.
 
 --- 
 
