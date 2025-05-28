@@ -15,11 +15,11 @@
 
 # 📂 Featured Projects 
 
-## 📊 [Cross-Department KPI Dashboard](https://github.com/Sophos333/cross-department-kpi-dashboard) A polished Power BI dashboard tracking KPIs across Finance, HR, and Ops with dynamic visuals, slicers, and variance logic. 
+### 📊 [Cross-Department KPI Dashboard](https://github.com/Sophos333/cross-department-kpi-dashboard) A polished Power BI dashboard tracking KPIs across Finance, HR, and Ops with dynamic visuals, slicers, and variance logic. 
 
-## 🧹 [World Population Analysis](https://github.com/Sophos333/world-population-analysis) Data cleaning + transformation project with global population trends using Python & Jupyter. 
+### 🧹 [World Population Analysis](https://github.com/Sophos333/world-population-analysis) Data cleaning + transformation project with global population trends using Python & Jupyter. 
 
-## 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) Exploratory data analysis of retail sales includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖 
+### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) Exploratory data analysis of retail sales includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖 
 
 --- 
 
