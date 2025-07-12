@@ -22,17 +22,21 @@ My mission is clear:
 
 ### 📂 Featured Projects
 
-#### 📊 Cross-Department KPI Dashboard | Power BI, DAX  
+#### 📊 [Cross-Department KPI Dashboard](https://github.com/Sophos333/cross-department-kpi-dashboard) | Power BI, DAX  
 Real-time dashboard tracking KPIs across Finance, HR, and Ops. Includes variance logic, dynamic visuals, and executive-level summaries.  
 > *Why this matters: Demonstrates cross-functional reporting and strategic alignment for operational visibility.*
 
-#### 🌍 World Population Analysis | Python, Jupyter  
+#### 🌍 [World Population Analysis](https://github.com/Sophos333/world-population-analysis) | Python, Jupyter  
 Cleaned and visualized global demographic trends using pandas. Automated insights accelerated analysis 25% over manual methods.  
 > *Why this matters: Highlights end-to-end data cleaning and EDA in Python with efficiency boosts.*
 
-#### 🧠 Superstore Sales Insights | Power BI, Excel  
+#### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) | Power BI, Excel  
 Retail sales analysis with DAX drilldowns, heatmaps, forecasting prep, and profit prediction modeling.  
 > *Why this matters: Blends BI storytelling with predictive modeling using real business data.*
+
+#### 🕵️ [LA Crime Analysis](https://github.com/Sophos333/LA-Crime-Analysis-2020-2025) | Python, pandas, Power BI  
+Mapped and analyzed 5 years of Los Angeles crime data using Python and Power BI to reveal hotspots, trends, and seasonal spikes.  
+> *Why this matters: Demonstrates spatial analysis, large dataset handling, and real-world storytelling using public data.*
 
 #### 💼 [Superstore Sales Analysis](https://github.com/Sophos333/superstore-sales-analysis) | Python, pandas, matplotlib  
 Explored and visualized real-world sales data using Python.  
