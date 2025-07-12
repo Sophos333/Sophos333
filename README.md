@@ -1,48 +1,80 @@
-# 👋 Hi, I'm Oscar I Holguin Silva 
+## 👋 Hi, I'm Oscar I Holguin Silva  
+🎖 Veteran-Turned-Technologist | 📊 Business Intelligence | 🧠 Data Storytelling
 
-🎖 Veteran-turned-technologist | 📊 Business Intelligence | 🧠 Data Storytelling 
+---
 
---- 
+### 🧽 About Me
 
-# I started out in the U.S. Army, serving in combat operations overseas. After my service ended, I transitioned into tech — leading web development, design, and now, diving deep into data analytics and business intelligence. My mission is clear:   
-**Deliver precision insights, clear dashboards, and storytelling that empowers decision-making.** 
+I began my journey in the U.S. Army, serving in overseas combat operations. After my service, I transitioned into tech—first leading web development and design, and now diving deep into **data analytics and business intelligence**.  
 
---- 
+My mission is clear:  
+> **Deliver precision insights, actionable dashboards, and compelling stories that drive confident decisions.**
 
-# 🚀 Current Focus - Power BI dashboards for real-world business scenarios   - SQL mastery (CTEs, Window Functions, Subqueries)   - Data storytelling with DAX, Excel & Python   - Publishing polished portfolio projects on [GitHub](https://github.com/Sophos333) 
+---
 
---- 
+### 🚀 Current Focus
+- Building **Power BI dashboards** for real-world business metrics (Finance, HR, Sales)
+- Writing advanced **SQL** (CTEs, Window Functions, Subqueries)
+- Storytelling through **DAX**, **Excel**, and **Python**
+- Publishing polished **portfolio projects** on GitHub
 
-# 📂 Featured Projects 
+---
 
-### 📊 [Cross-Department KPI Dashboard](https://github.com/Sophos333/cross-department-kpi-dashboard) A polished Power BI dashboard tracking KPIs across Finance, HR, and Ops with dynamic visuals, slicers, and variance logic. 
+### 📂 Featured Projects
 
-### 🧹 [World Population Analysis](https://github.com/Sophos333/world-population-analysis) Data cleaning + transformation project with global population trends using Python & Jupyter. 
+#### 📊 Cross-Department KPI Dashboard | Power BI, DAX  
+Real-time dashboard tracking KPIs across Finance, HR, and Ops. Includes variance logic, dynamic visuals, and executive-level summaries.  
+> *Why this matters: Demonstrates cross-functional reporting and strategic alignment for operational visibility.*
 
-### 🧠 [Superstore Sales Insights](https://github.com/Sophos333/superstore-sales-analysis) Exploratory data analysis of retail sales includes heatmaps, regression, and forecasting prep, with ML up and predicting profit. 🤖 
+#### 🌍 World Population Analysis | Python, Jupyter  
+Cleaned and visualized global demographic trends using pandas. Automated insights accelerated analysis 25% over manual methods.  
+> *Why this matters: Highlights end-to-end data cleaning and EDA in Python with efficiency boosts.*
 
---- 
+#### 🧠 Superstore Sales Insights | Power BI, Excel  
+Retail sales analysis with DAX drilldowns, heatmaps, forecasting prep, and profit prediction modeling.  
+> *Why this matters: Blends BI storytelling with predictive modeling using real business data.*
 
-## 🧠 Skills **Languages & Queries**   `SQL` `DAX` `Python` `HTML/CSS` `JavaScript (basic)` **Analytics & Tools**   `Power BI` `Excel` `Tableau (basic)` `Jupyter` `VS Code` `SQL Server Management Studio` 
+#### 💼 [Superstore Sales Analysis](https://github.com/Sophos333/superstore-sales-analysis) | Python, pandas, matplotlib  
+Explored and visualized real-world sales data using Python.  
+✅ Cleaned and transformed raw data (dates, nulls, categories)  
+📊 Identified sales trends, top categories, and segment performance  
+🧠 Introduced a machine learning model to **predict profit** using linear regression (scikit-learn)  
+🔧 Tools: Python · pandas · matplotlib · seaborn · Jupyter · Git  
+> *Why this matters: Showcases full-stack analytics from raw CSV to visuals and profit prediction with ML.*
 
-**Soft Skills**   Leadership • Communication • Team Collaboration • Agile & Servant Leadership   Bilingual: 🇺🇸 English • 🇪🇸 Spanish 
+---
 
---- 
+### 🧰 Tech Stack & Skills
 
-## 🧭 Values & Approach I believe: 
+**Languages & Queries:**  
+SQL · DAX · Python · HTML/CSS · JavaScript (basic)  
 
-- Data should drive decisions
-  
-- not just reports.
+**Tools & Platforms:**  
+Power BI · Excel · Tableau (basic) · Jupyter · VS Code · SQL Server Management Studio  
 
-- Dashboards should **communicate**, not just display. 
+**Enterprise Tools:**  
+Workday (HCM) · Salesforce (CRM) · Bullhorn (ATS) · Cognito · JIRA · Confluence  
 
-- Learning is lifelong.
+**Soft Skills:**  
+Leadership · Communication · Cross-functional Collaboration · Agile/Scrum · Servant Leadership  
+**Bilingual:** English 🇺🇸 · Spanish 🇪🇸
 
---- 
+---
 
-## 📬 Let’s Connect 
+### 💡 Core Beliefs
 
-📌 [LinkedIn →](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)   
+- Data should **drive decisions**, not just sit in reports  
+- Dashboards should **communicate clearly**, not just display numbers  
+- Learning is **lifelong**, and curiosity fuels innovation
 
-🧪 [Portfolio →](https://sophos333.github.io/sophos-chatbot-portfolio/)   📧 Open to collaboration, mentorship, or freelance BI projects. --- _Thanks for stopping by!_   🔧 _Currently leveling up my SQL and advanced DAX game. Let’s build something together._ 🚀 
+---
+
+### 📬 Let’s Connect
+
+📌 [LinkedIn →](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)  
+🧪 [Portfolio Projects →](https://github.com/Sophos333)  
+📧 Open to collaboration, mentorship, or freelance BI work  
+
+Thanks for stopping by!  
+🛠️ Currently leveling up in advanced SQL & DAX.  
+Let’s build something that matters. 🚀
