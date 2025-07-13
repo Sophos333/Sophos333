@@ -76,8 +76,8 @@ Leadership · Communication · Cross-functional Collaboration · Agile/Scrum · 
 ### 📬 Let’s Connect
 
 📌 [LinkedIn →](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)  
-🧪 [Portfolio Projects →](https://github.com/Sophos333)
-🤖 [AI ChatBot →](https://sophos333.github.io/sophos-chatbot-portfolio/)
+🧪 [Portfolio Projects →](https://github.com/Sophos333)  
+🤖 [AI ChatBot →](https://sophos333.github.io/sophos-chatbot-portfolio/)  
 📧 Open to collaboration, mentorship, or freelance BI work  
 
 Thanks for stopping by!  
