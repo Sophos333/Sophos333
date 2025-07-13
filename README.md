@@ -3,7 +3,7 @@
 
 ---
 
-### 😎 About Me
+### 🧽 About Me
 
 I began my journey in the U.S. Army, serving in overseas combat operations. After my service, I transitioned into tech—first leading web development and design, and now diving deep into **data analytics and business intelligence**.  
 
@@ -75,9 +75,9 @@ Leadership · Communication · Cross-functional Collaboration · Agile/Scrum · 
 
 ### 📬 Let’s Connect
 
-📌 [LinkedIn →](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)  
-🧪 [Portfolio Projects →](https://github.com/Sophos333)  
-🤖 [AI ChatBot →](https://sophos333.github.io/sophos-chatbot-portfolio/)  
+📌 [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)  
+🧪 [Portfolio Projects](https://github.com/Sophos333)  
+🤖 [AI ChatBot](https://sophos333.github.io/sophos-chatbot-portfolio/)  
 📧 Open to collaboration, mentorship, or freelance BI work  
 
 Thanks for stopping by!  
