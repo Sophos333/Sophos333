@@ -3,7 +3,7 @@
 
 ---
 
-### 🧽 About Me
+### 😎 About Me
 
 I began my journey in the U.S. Army, serving in overseas combat operations. After my service, I transitioned into tech first leading web development and design, and now diving deep into **data analytics and business intelligence**.  
 
