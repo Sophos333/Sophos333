@@ -1,267 +1,92 @@
-# 👋 Hi, I'm Oscar I. Holguin-Silva
+<p align="center">
+  <img src="./assets/matrix-terminal.svg" alt="Animated AI Arsenal terminal showing Oscar Holguin-Silva's role, stack, and engineering principles" />
+</p>
 
-**AI Engineer | AI Systems Builder | Decision & Risk Systems | Veteran-Turned-Technologist**
+# Oscar I. Holguin-Silva
 
-I build practical AI, analytics, automation, and decision-support systems that turn complexity into clarity.
+**Applied AI Engineer | AI Systems Builder | Governed AI, Data & Workflow Automation**
 
-My work sits at the intersection of **AI engineering, business intelligence, data analytics, automation, governance, and operational decision-making**. I focus on building systems that help people reduce manual work, surface risk earlier, protect sensitive information, and make better decisions with clearer evidence.
+I build practical AI and data systems that help people surface risk, reduce manual work, and make better decisions with clearer evidence. My focus is private, governed, human-led software rather than black-box automation.
 
----
+[Portfolio](https://sophos333.github.io/OscarAIArsenal/) · [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/) · [AICR Documentation](https://github.com/Sophos333/aicr-documentation)
 
-## About Me
+## What I Build
 
-My journey began in the U.S. Army, where I learned discipline, leadership, accountability, and how to operate under pressure.
+- **Applied AI systems** for real business workflows
+- **Human-in-the-loop decision support** with explicit approval boundaries
+- **Local-first and privacy-conscious AI** for sensitive information
+- **Data and analytics products** that turn raw information into operational clarity
+- **Workflow automation** with evidence, traceability, and controlled execution
 
-After my military service, I transitioned into technology through web architecture, digital operations, SEO, analytics, and process improvement. Over time, that foundation grew into a deeper focus on data analytics, business intelligence, automation, and AI systems.
+## Selected Work
 
-Today, I am building **AI Arsenal**, a growing portfolio of practical AI systems focused on:
+### AI Arsenal
+A growing portfolio of AI, analytics, and workflow systems built around evidence, privacy, governance, and human judgment.
 
-- Decision support
-- Risk visibility
-- Workflow intelligence
-- Document intelligence
-- Local-first and privacy-conscious AI
-- Explainable outputs
-- Governance and operational clarity
+**[Explore the AI Arsenal portfolio](https://sophos333.github.io/OscarAIArsenal/)**
 
-My mission is simple:
+### AICR | AI Contract Reviewer
+Private, human-led contract-review software designed to surface potential concerns and connect findings to supporting contract language so a person can review the evidence and decide what matters.
 
-> Build practical AI and data systems that help people make clearer decisions without losing control of sensitive information.
+**[Read the public AICR documentation](https://github.com/Sophos333/aicr-documentation)**
 
----
-
-## Project Access Note
-
-Many of my current AI Arsenal projects are private while they are being developed, refined, and prepared for release.
-
-I am happy to walk through the code, architecture, and product direction with recruiters, hiring teams, collaborators, or potential clients upon request.
-
----
-
-## Current Focus
-
-- Building **AI Arsenal**, a portfolio of practical AI systems
-- Developing privacy-first AI tools that can run locally or on private servers
-- Creating decision-support systems for contracts, spreadsheets, healthcare risk, operations, and governance
-- Strengthening AI workflows with explainability, auditability, and human oversight
-- Using **Python, SQL, Power BI, Streamlit, FastAPI, pandas, and local LLM workflows**
-- Publishing polished portfolio projects on GitHub and LinkedIn
-
----
-
-## Featured AI Arsenal Projects
-
-### AI Contract Reviewer
-**Privacy-first contract risk analysis and decision support**
-
-A local-first AI system designed to help users review contracts, surface red flags, extract key fields, compare agreements, and produce structured outputs without sending sensitive documents to the cloud.
-
-**Focus areas:**
-- Contract risk visibility
-- Source-backed explanations
-- Key field extraction
-- Red flag detection
-- Structured exports
-- Local-first architecture
-- Governance and usage controls
-
-> Why this matters: Sensitive contract review needs clarity, evidence, and privacy. AI should support better judgment, not replace it.
-
----
-
-### Excel Whisperer
-**Privacy-first spreadsheet intelligence**
-
-A local-first spreadsheet assistant built to help users analyze Excel and CSV files, inspect data quality, ask natural language questions, and reduce manual reporting friction.
-
-**Focus areas:**
-- Excel and CSV analysis
-- Schema review
-- Null summaries
-- Local LLM workflows
-- Business reporting support
-- Data privacy
-
-> Why this matters: Many teams still run critical workflows through spreadsheets. AI should help analyze that data without creating unnecessary exposure.
-
----
+### Scout
+A configurable lead-intelligence system for discovering, researching, validating, and preparing prospects for governed human outreach. The product is being built privately while the customer workflow is refined.
 
 ### Aegis
-**Governance-first decision intelligence**
+A governance-first decision-intelligence system built around controlled data access, auditable workflows, and human oversight.
 
-A decision-support system built around controlled, auditable business intelligence workflows.
+## Public Engineering & Analytics Work
 
-**Focus areas:**
-- SAFE MODE by default
-- Approved question workflows
-- Read-only enforcement
-- Governed data access
-- Executive summaries
-- Audit-friendly outputs
+| Project | Focus |
+| --- | --- |
+| [AI Arsenal Portfolio](https://github.com/Sophos333/OscarAIArsenal) | Public portfolio and product case studies |
+| [Cross-Department KPI Dashboard](https://github.com/Sophos333/cross-department-kpi-dashboard) | Power BI executive reporting across Finance, HR, and Operations |
+| [Superstore Sales Analysis](https://github.com/Sophos333/superstore-sales-analysis) | Python, pandas, and BI analysis from raw data to business insight |
+| [LA Crime Analysis](https://github.com/Sophos333/LA-Crime-Analysis-2020-2025) | Public-data analysis, trends, and operational visualization |
 
-> Why this matters: Leaders need answers quickly, but decision systems should be governed, explainable, and safe by design.
+## Engineering Principles
 
----
+```text
+Evidence before confidence.
+Human approval before consequential action.
+Privacy and security by design.
+Uncertainty should be visible, not hidden.
+Small, testable changes beat speculative complexity.
+AI should support judgment, not quietly replace it.
+```
 
-### Cerebro
-**Secure role-based AI knowledge access**
+## Core Stack
 
-A role-aware AI knowledge engine concept designed to help organizations retrieve information safely based on permissions, context, and responsibility.
+**AI & Application Engineering:** Python · FastAPI · LLM/RAG workflows · Ollama · PyTorch · scikit-learn
 
-**Focus areas:**
-- Role-based access
-- Controlled knowledge retrieval
-- Secure AI responses
-- Enterprise knowledge management
-- Sensitive data protection
+**Data & Analytics:** SQL · pandas · NumPy · Power BI · Power Query · Jupyter · Databricks
 
-> Why this matters: The same document should not always produce the same answer for every user. Access, context, and responsibility matter.
+**Systems & Delivery:** Docker · Git · GitHub · SQLite · SQL Server · VS Code · pytest
 
----
+**Additional Development:** JavaScript · C#/.NET · HTML · CSS
 
-### Economic Stress Radar
-**Local-first risk signal monitoring**
+## Databricks Academy
 
-A risk-monitoring and analytics system designed to turn real-world data into clearer signals through validation, diagnostics, and explainable outputs.
+- Azure Databricks Platform Architect
+- Generative AI Fundamentals
+- AI Agent Fundamentals
+- Databricks Fundamentals
 
-**Focus areas:**
-- Risk signal detection
-- Input validation
-- Schema checks
-- Timeline views
-- Diagnostics and logs
-- Local-first analysis
+[View Databricks credentials](https://credentials.databricks.com/profile/oscarholguinsilva/wallet)
 
-> Why this matters: Messy data should not produce confident nonsense. Reliable systems should stop, explain, and guide the user when inputs are not ready.
+## Background
 
----
-
-### Hospital Readmission Predictor
-**Explainable healthcare risk modeling**
-
-A machine learning project focused on predicting 30-day readmission risk while supporting explainability and operational decision-making.
-
-**Focus areas:**
-- Predictive modeling
-- Healthcare analytics
-- Model evaluation
-- Explainable AI concepts
-- Risk factor visibility
-- Human decision support
-
-> Why this matters: Healthcare AI should support earlier visibility and better prioritization while preserving human judgment.
-
----
-
-### Disaster Response Mapper
-**Real-time situational awareness**
-
-A lightweight operational mapping tool designed to help teams monitor alerts, filter by location and time, and improve visibility during fast-moving situations.
-
-**Focus areas:**
-- Live alert mapping
-- Operational intelligence
-- Time-window filtering
-- State-level filtering
-- Map-based visibility
-- Situational awareness
-
-> Why this matters: Under pressure, teams need clear signals, trusted information, and faster awareness.
-
----
-
-## Data Analytics & BI Projects
-
-### Cross-Department KPI Dashboard
-**Power BI, DAX**
-
-Executive-style dashboard tracking KPIs across Finance, HR, and Operations with variance logic, dynamic visuals, and cross-functional reporting.
-
-> Why this matters: Demonstrates business intelligence, performance reporting, and operational visibility.
-
----
-
-### Superstore Sales Analysis
-**Python, pandas, matplotlib, Power BI**
-
-End-to-end sales analysis using Python and BI storytelling to identify sales trends, segment performance, category insights, and profit patterns.
-
-> Why this matters: Shows the full analytics workflow from raw data to insights and business recommendations.
-
----
-
-### World Population Analysis
-**Python, Jupyter, pandas**
-
-Cleaned and analyzed global population data to explore demographic trends and communicate findings through visual analysis.
-
-> Why this matters: Demonstrates data cleaning, exploratory analysis, and Python-based storytelling.
-
----
-
-### LA Crime Analysis
-**Python, pandas, Power BI**
-
-Analyzed Los Angeles crime data to identify trends, patterns, hotspots, and time-based changes using public datasets.
-
-> Why this matters: Demonstrates spatial analysis, public data storytelling, and large dataset handling.
-
----
-
-## Tech Stack & Skills
-
-### AI & Application Development
-Python · Streamlit · FastAPI · local LLM workflows · Ollama · prompt engineering · AI workflow design · explainable AI concepts
-
-### Data & Analytics
-SQL · Power BI · DAX · Excel · pandas · matplotlib · scikit-learn · Jupyter · data cleaning · exploratory data analysis
-
-### Systems & Governance
-Decision support · risk analysis · workflow automation · data governance · audit-friendly outputs · local-first architecture · privacy-conscious design
-
-### Web & Digital
-HTML · CSS · JavaScript basics · WordPress · SEO · accessibility · digital operations · web architecture
-
-### Tools & Platforms
-VS Code · Git · GitHub · SQL Server Management Studio · Power BI · Excel · JIRA · Confluence · Salesforce · Workday
-
-### Leadership
-Military leadership · cross-functional collaboration · stakeholder communication · process improvement · Agile/Scrum · servant leadership
-
-**Bilingual:** English and Spanish
-
----
-
-## Core Beliefs
-
-- AI should support human judgment, not bypass it.
-- Data should drive decisions, not just sit in reports.
-- Dashboards should reduce confusion, not just display numbers.
-- Sensitive information should be protected by design.
-- Good systems create clarity, accountability, and trust.
-- Technology should serve people and real business outcomes.
-
----
+U.S. Army veteran with a background spanning software, web architecture, analytics, process improvement, and organizational leadership. I bring that same emphasis on accountability, clarity, and disciplined execution into the systems I build today.
 
 ## Current Direction
 
-I am continuing to build AI Arsenal while remaining open to the right:
+I am building AI Arsenal while working toward practical, sellable AI products for contract review, lead intelligence, workflow automation, and governed decision support.
 
-- AI engineering opportunities
-- Data analytics and BI roles
-- Contract or consulting projects
-- Workflow automation projects
-- Decision-support and risk visibility systems
-- Privacy-first AI and local-first application work
+I am also open to **contract work, product collaborations, and applied AI engineering opportunities** where evidence, privacy, and human accountability matter.
 
----
+## Connect
 
-## Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/
-- GitHub: https://github.com/Sophos333
-- AI Arsenal Portfolio: https://sophos333.github.io/OscarAIArsenal/
-
-Thanks for stopping by.
-
-Let’s build systems that make complexity clearer, decisions stronger, and technology more trustworthy.
+- [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)
+- [AI Arsenal Portfolio](https://sophos333.github.io/OscarAIArsenal/)
+- [GitHub](https://github.com/Sophos333)
