@@ -24,7 +24,7 @@
     <text x="24" y="152" clip-path="url(#line4)">&gt; principle: evidence first. human judgment stays in command.</text>
   </g>
 
-  <text x="882" y="152" fill="#39ff14" font-family="monospace" font-size="18">█
+  <text x="760" y="152" fill="#39ff14" font-family="monospace" font-size="18">█
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </text>
 </svg>
