@@ -8,7 +8,7 @@
 
 I build practical AI and data systems that help people surface risk, reduce manual work, and make better decisions with clearer evidence. My focus is private, governed, human-led software rather than black-box automation.
 
-[Portfolio](https://sophos333.github.io/OscarAIArsenal/) · [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/) · [AICR Documentation](https://github.com/Sophos333/aicr-documentation)
+[Portfolio](https://aiarsenalenterprise.com/) · [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/) · [AICR Documentation](https://github.com/Sophos333/aicr-documentation)
 
 ## What I Build
 
@@ -23,7 +23,7 @@ I build practical AI and data systems that help people surface risk, reduce manu
 ### AI Arsenal
 A growing portfolio of AI, analytics, and workflow systems built around evidence, privacy, governance, and human judgment.
 
-**[Explore the AI Arsenal portfolio](https://sophos333.github.io/OscarAIArsenal/)**
+**[Explore the AI Arsenal portfolio](https://aiarsenalenterprise.com/)**
 
 ### AICR | AI Contract Reviewer
 Private, human-led contract-review software designed to surface potential concerns and connect findings to supporting contract language so a person can review the evidence and decide what matters.
@@ -88,5 +88,5 @@ I am also open to **contract work, product collaborations, and applied AI engine
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)
-- [AI Arsenal Portfolio](https://sophos333.github.io/OscarAIArsenal/)
+- [AI Arsenal Portfolio](https://aiarsenalenterprise.com/)
 - [GitHub](https://github.com/Sophos333)
